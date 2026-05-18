@@ -1,13 +1,13 @@
 node {
     stage('Build') {
         // Run build commands
-        echo "Building project..."
+        echo "Building project shivani..."
     }
     stage('Test') {
         // Run tests
-        echo "Running tests..."
+        echo "Running tests jamwal..."
     }
     stage('Deploy') {
-        echo "Deploying application..."
+        echo "Deploying application bhatia..."
     }
 }
